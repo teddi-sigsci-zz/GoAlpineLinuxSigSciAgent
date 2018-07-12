@@ -9,7 +9,7 @@ This is a dockerized SigSci Agent  to be used as a side car or as a reverse prox
 The start.sh is a simple script for doing some customizations. I use it to start the SigSci agent process.  
 
 **contrib**
-Contains software that are dependacies for building this container. This version contians the SigSci Agent 3.10 (dated 7/11/18)
+Contains software that are dependacies for building this container. This version contians the SigSci Agent 3.10 (dated 7/11/18). You will need to unzip the contrib folder before building the docker image. 
 
 
 **Dockerfile**
